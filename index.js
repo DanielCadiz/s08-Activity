@@ -26,7 +26,7 @@ function printUserInfo(firstName, lastName, age) {
 	console.log("This was printed inside of the function")
 	console.log(workAddress)
 }
-
+ 
 printUserInfo(firstName, lastName, age);
 
 function returnFunction() {
